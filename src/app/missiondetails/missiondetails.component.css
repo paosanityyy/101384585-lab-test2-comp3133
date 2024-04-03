@@ -1,5 +1,5 @@
 .details{
-    background-color: rgb(183, 239, 248);
+    background-color: rgb(231, 218, 201);
     border-radius: 50px;
 }
 
@@ -18,5 +18,5 @@ span{
     padding-left: 10px;
 }
 h3{
-    color: darkred;
+    color: rgb(222, 143, 143);
 }
